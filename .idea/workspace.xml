@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ace8bc78-f46b-476a-9f80-445264fd20c7" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/Week2/quickstart/HelloHuyankai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/quickstart/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/quickstart/Math1.java" afterDir="false" />
-    </list>
+    <list default="true" id="ace8bc78-f46b-476a-9f80-445264fd20c7" name="默认" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +14,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week2/quickstart/Math1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="297">
               <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
@@ -96,7 +92,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551522652905" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551523018524" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -167,12 +163,12 @@
       <workItem from="1551513542994" duration="48000" />
       <workItem from="1551513685606" duration="103000" />
       <workItem from="1551513933828" duration="2731000" />
-      <workItem from="1551519720548" duration="2852000" />
+      <workItem from="1551519720548" duration="3588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5734000" />
+    <option name="totallyTimeSpent" value="6470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="985" extended-state="6" />
@@ -187,7 +183,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31584948" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31128848" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -243,7 +239,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week2/quickstart/Math1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="297">
           <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
