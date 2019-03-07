@@ -1,4 +1,5 @@
-import Math;
+import java.math.*;
+
 
 public class Aplusplus {
     public static void main(String[] args) {
