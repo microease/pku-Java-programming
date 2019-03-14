@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-
 public class Test {
     //    用“埃氏筛法”求2～100以内的素数。2～100以内的数，先去掉2的倍数，再去掉3的倍数，再去掉5的倍数，……依此类推，最后剩下的就是素数。
     //
@@ -33,7 +32,7 @@ public class Test {
                 }
             }
             // 打印还剩下的数
-//            System.out.print(result.get(i) + " ");
+            System.out.print(result.get(i) + " ");
         }
 
     }

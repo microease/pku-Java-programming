@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Week2/quickstart" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week4" isTestSource="false" />
     </content>
     <content url="file://$MODULE_DIR$/Week2/quickstart" />
     <orderEntry type="inheritedJdk" />
