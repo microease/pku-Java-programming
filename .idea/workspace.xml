@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04280b26-7f78-49eb-8f79-4d8c4adfdd30" name="默认" comment="" />
+    <list default="true" id="04280b26-7f78-49eb-8f79-4d8c4adfdd30" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/Week5/NewsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pku-Java-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pku-Java-programming.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +14,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week5/NewsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,12 +43,13 @@
         <option value="$PROJECT_DIR$/Week4/Test.java" />
         <option value="$PROJECT_DIR$/Week4/EatWatermelon.java" />
         <option value="$PROJECT_DIR$/Week4/EatWatermelonGame.java" />
+        <option value="$PROJECT_DIR$/Week5/NewsDemo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="693" />
-    <option name="y" value="51" />
+    <option name="x" value="-27" />
+    <option name="y" value="323" />
     <option name="width" value="1920" />
     <option name="height" value="984" />
   </component>
@@ -46,8 +61,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -58,25 +71,26 @@
             <path>
               <item name="pku-Java-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="pku-Java-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Week4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pku-Java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pku-Java-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="Week4" type="462c0819:PsiDirectoryNode" />
-              <item name="EatWatermelonGame.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Week5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554537495226" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554623242792" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\pku-Java-programming\Week5" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EatWatermelonGame">
+  <component name="RunManager" selected="Application.NewsDemo">
     <configuration name="EatWatermelonGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week4.EatWatermelonGame" />
       <module name="pku-Java-programming" />
@@ -104,6 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NewsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewsDemo" />
+      <module name="pku-Java-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="pku-Java-programming" />
@@ -113,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewsDemo" />
         <item itemvalue="Application.EatWatermelonGame" />
         <item itemvalue="Application.Test" />
       </list>
@@ -131,16 +153,19 @@
       <workItem from="1552528839252" duration="9890000" />
       <workItem from="1553998946082" duration="60000" />
       <workItem from="1554519820087" duration="2456000" />
+      <workItem from="1554611354590" duration="3478000" />
+      <workItem from="1554623227331" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12406000" />
+    <option name="totallyTimeSpent" value="15911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1359275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -154,10 +179,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32924107" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3580097" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32924107" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="调试" order="13" />
@@ -207,6 +232,13 @@
             <element signature="e#989#990#0" expanded="true" />
             <element signature="e#1021#1022#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week5/NewsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
