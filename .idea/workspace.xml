@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04280b26-7f78-49eb-8f79-4d8c4adfdd30" name="默认" comment="" />
+    <list default="true" id="04280b26-7f78-49eb-8f79-4d8c4adfdd30" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/Aplusplus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/Week4/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/Week4/Eat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/Week4/EatWatermelonGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/Week4/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/Week4/anmial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/quickstart/HelloHuyankai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/quickstart/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pku-Java-programming/quickstart/Math1.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,10 +44,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="693" />
-    <option name="y" value="51" />
-    <option name="width" value="1920" />
-    <option name="height" value="984" />
+    <option name="x" value="684" />
+    <option name="y" value="50" />
+    <option name="width" value="1921" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -46,8 +57,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,9 +79,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554529856777" />
@@ -131,16 +143,17 @@
       <workItem from="1552528839252" duration="9890000" />
       <workItem from="1553998946082" duration="60000" />
       <workItem from="1554519820087" duration="1858000" />
+      <workItem from="1554566752874" duration="107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11808000" />
+    <option name="totallyTimeSpent" value="11915000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="990" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1359275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1373802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
