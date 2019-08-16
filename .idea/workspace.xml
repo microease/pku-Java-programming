@@ -18,11 +18,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="29" />
-    <option name="width" value="1920" />
-    <option name="height" value="985" />
-  </component>
   <component name="ProjectId" id="1PDbSCqjMXZygBeS8GmMdeozaoZ" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -93,7 +88,7 @@
       <workItem from="1564108819263" duration="602000" />
       <workItem from="1564110426308" duration="5000" />
       <workItem from="1565411615476" duration="1351000" />
-      <workItem from="1565944397080" duration="219000" />
+      <workItem from="1565944397080" duration="2230000" />
     </task>
     <servers />
   </component>
