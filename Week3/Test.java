@@ -2,11 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 public class Test {
     //    用“埃氏筛法”求2～100以内的素数。2～100以内的数，先去掉2的倍数，再去掉3的倍数，再去掉5的倍数，……依此类推，最后剩下的就是素数。
-    //
     //    要求使用数组及增强的for语句。
-    //
     //    请上传压缩后的源代码文件；
-    //
     //    请注意代码风格：类名、变量名的命名，以及必要注释等等；（为防上传失败，请同时把代码贴到文本框中。）
     public static void main(String[] args) {
 //        定义一个数组
@@ -38,3 +35,4 @@ public class Test {
     }
 
 }
+
