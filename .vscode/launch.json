@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test6",
+            "request": "launch",
+            "mainClass": "Test6",
+            "projectName": "pku-Java-programming_55ee3479"
+        }
+    ]
+}
