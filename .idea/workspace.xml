@@ -51,7 +51,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex5_2">
+    <configuration name="Ex5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_2" />
+      <module name="pku-Java-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="pku-Java-programming" />
@@ -59,8 +66,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jisuanqi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jisuanqi" />
+      <module name="pku-Java-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5_2" />
+        <item itemvalue="Application.jisuanqi" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -98,6 +114,7 @@
       <workItem from="1565944397080" duration="2829000" />
       <workItem from="1567075693859" duration="55000" />
       <workItem from="1567318215344" duration="471000" />
+      <workItem from="1570413277324" duration="3218000" />
     </task>
     <servers />
   </component>
